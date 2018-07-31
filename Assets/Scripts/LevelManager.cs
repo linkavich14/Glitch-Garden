@@ -7,7 +7,7 @@ public class LevelManager : MonoBehaviour {
     public float autoLoadNestLevelAfter;
 
      void Start() {
-        if(autoLoadNestLevelAfter == 0) {
+        if(autoLoadNestLevelAfter <= 0) {
             
         }else {
             Invoke("LoadNextLevel", autoLoadNestLevelAfter);

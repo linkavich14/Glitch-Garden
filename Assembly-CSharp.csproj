@@ -59,11 +59,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Attacker.cs" />
     <Compile Include="Assets\Scripts\FadeIn.cs" />
     <Compile Include="Assets\Scripts\LevelManager.cs" />
     <Compile Include="Assets\Scripts\MusicManager.cs" />
     <Compile Include="Assets\Scripts\OptionsController.cs" />
     <Compile Include="Assets\Scripts\PlayerPrefsManager.cs" />
+    <Compile Include="Assets\Scripts\StartVolume.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/git/Unity/Glitch Garden/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
