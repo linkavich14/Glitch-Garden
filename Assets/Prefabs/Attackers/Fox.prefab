@@ -22,6 +22,8 @@ GameObject:
   - component: {fileID: 95927903305006806}
   - component: {fileID: 114344728676715982}
   - component: {fileID: 61050636397673030}
+  - component: {fileID: 50200504656239824}
+  - component: {fileID: 114179603939134778}
   m_Layer: 0
   m_Name: Fox
   m_TagString: Untagged
@@ -52,7 +54,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1889031043547104}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5, y: 4, z: 0}
+  m_LocalPosition: {x: 8, y: 1.931, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4542105087284546}
@@ -72,6 +74,26 @@ Transform:
   m_Father: {fileID: 4196344250144972}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &50200504656239824
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1889031043547104}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
 --- !u!61 &61050636397673030
 BoxCollider2D:
   m_ObjectHideFlags: 1
@@ -115,6 +137,17 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114179603939134778
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1889031043547104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6751c71557df30b438fa6bcec0a012fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114344728676715982
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -126,7 +159,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa08bd78d451ab0419b5fc8e1f14c03f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  walkSpeed: 0.4
 --- !u!212 &212438512748476118
 SpriteRenderer:
   m_ObjectHideFlags: 1
