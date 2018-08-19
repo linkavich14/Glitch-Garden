@@ -43,11 +43,9 @@ D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
-D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.Purchasing.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
-D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.StandardEvents.dll
@@ -61,7 +59,6 @@ D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.Timeline.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.TimelineModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.TLSModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.UI.dll
-D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.UIAutomation.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.UIModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.UmbraModule.dll
@@ -76,7 +73,6 @@ D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.d
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.VideoModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.VRModule.dll
-D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.WebModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.WindModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.XRModule.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityScript.dll
@@ -88,13 +84,10 @@ D:\git\Unity\Glitch Garden\Temp\bin\Debug\ExCSS.Unity.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\Boo.Lang.Parser.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\Boo.Lang.Compiler.dll
-D:\git\Unity\Glitch Garden\Temp\bin\Debug\Unity.UNetWeaver.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\Unity.IvyParser.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\Boo.Lang.Useful.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\Unity.CecilTools.dll
-D:\git\Unity\Glitch Garden\Temp\bin\Debug\Unity.Cecil.Pdb.dll
-D:\git\Unity\Glitch Garden\Temp\bin\Debug\Unity.Cecil.Mdb.dll
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEditor.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.AIModule.xml
@@ -126,7 +119,6 @@ D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
-D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
@@ -151,13 +143,11 @@ D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.x
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.VRModule.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.VideoModule.xml
-D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.WebModule.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.WindModule.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.XRModule.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.UI.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.Networking.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.Timeline.xml
-D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.UIAutomation.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.HoloLens.xml
 D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
@@ -166,3 +156,13 @@ D:\git\Unity\Glitch Garden\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.ca
 D:\git\Unity\Glitch Garden\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 D:\git\Unity\Glitch Garden\obj\Debug\Assembly-CSharp.dll
 D:\git\Unity\Glitch Garden\obj\Debug\Assembly-CSharp.pdb
+D:\git\Unity\Glitch Garden\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\git\Unity\Glitch Garden\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\git\Unity\Glitch Garden\Temp\bin\Debug\UnityEngine.StreamingModule.xml
