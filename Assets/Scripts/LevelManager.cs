@@ -4,13 +4,13 @@ using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour {
 
-    public float autoLoadNestLevelAfter;
+    public float autoLoadNextLevelAfter;
 
      void Start() {
-        if(autoLoadNestLevelAfter <= 0) {
+        if(autoLoadNextLevelAfter <= 0) {
             
         }else {
-            Invoke("LoadNextLevel", autoLoadNestLevelAfter);
+            Invoke("LoadNextLevel", autoLoadNextLevelAfter);
         }
     }
 
