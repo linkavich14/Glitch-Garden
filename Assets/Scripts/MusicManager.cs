@@ -17,7 +17,8 @@ public class MusicManager : MonoBehaviour {
     void Start () {
         SceneManager.sceneLoaded += this.OnLoadCallback;
         audioSource = GetComponent<AudioSource>();
-	}
+        audioSource.volume = PlayerPrefsManager.GetMasterVolume();
+    }
 
     void OnLoadCallback(Scene scene, LoadSceneMode sceneMode) {
         AudioClip thisLevelMusic = levelMusicChangeArray[scene.buildIndex];
